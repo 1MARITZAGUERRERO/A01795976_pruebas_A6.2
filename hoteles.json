@@ -1,0 +1,44 @@
+[
+    {
+        "id_hotel": 1,
+        "nombre": "Nuevo Nombre de Hotel",
+        "ubicacion": "Nueva Ubicacion",
+        "habitaciones_disponibles": 60,
+        "numero_estrellas": 5
+    },
+    {
+        "id_hotel": 2,
+        "nombre": "Hotel Sol y Luna",
+        "ubicacion": "Cartagena",
+        "habitaciones_disponibles": 5,
+        "numero_estrellas": 4
+    },
+    {
+        "id_hotel": 3,
+        "nombre": "Hotel Sol",
+        "ubicacion": "Santa Martha",
+        "habitaciones_disponibles": 100,
+        "numero_estrellas": 5
+    },
+    {
+        "id_hotel": 4,
+        "nombre": "Sol Caribe y Son",
+        "ubicacion": "Barranquilla",
+        "habitaciones_disponibles": 85,
+        "numero_estrellas": 3
+    },
+    {
+        "id_hotel": 10,
+        "nombre": "Hotel Amazonas",
+        "ubicacion": "Amazonas",
+        "habitaciones_disponibles": 30,
+        "numero_estrellas": 4
+    },
+    {
+        "id_hotel": 11,
+        "nombre": "Hotel Riviera",
+        "ubicacion": "Mexico",
+        "habitaciones_disponibles": 150,
+        "numero_estrellas": 5
+    }
+]
